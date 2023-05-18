@@ -1,0 +1,875 @@
+,product_id,id_customer,name,rating_1
+0,41,1,"Gallo-Vinagre de vino espumante, 250 ml.",4.5
+1,42,1,"Gallo-Vinagre balsámico rosé, 250 ml.",4.5
+2,42,1,"Gallo-Vinagre balsámico rosé, 250 ml.",4.5
+3,41,1,"Gallo-Vinagre de vino espumante, 250 ml.",4.5
+4,42,1,"Gallo-Vinagre balsámico rosé, 250 ml.",4.5
+5,41,1,"Gallo-Vinagre de vino espumante, 250 ml.",4.5
+6,42,1,"Gallo-Vinagre balsámico rosé, 250 ml.",4.5
+7,217,6,"Vino 2015 Bioma Douro, Neipoort, 75cl.",4.0
+8,176,9,"Petroni-Vermouth Rojo, 1000ml.",3.0
+9,159,9,"Palitos Integrales de Sesamo y Algas, 150 gr.",3.0
+10,217,6,"Vino 2015 Bioma Douro, Neipoort, 75cl.",4.0
+11,37,11,Gallo-Classico azeite virgem extra,4.5
+12,217,12,"Vino 2015 Bioma Douro, Neipoort, 75cl.",4.7
+13,134,12,"O Submarino-Ostras en Escabeche vermelho  (6-8 ostras), 115 gr.",4.7
+14,221,19,"Vino Mateus The Original, 75cl.",4.5
+15,138,20,"O Submarino-Paté de Berberecho con castaña, 85 gr.",4.0
+16,282,9,"Chocolate Negro 72% cacao, 100gr. , Antiu Xixona",3.0
+17,38,23,Gallo- MoonLight Aceite Virgen Extra 500ml,4.0
+18,29,30,"Licor Café de Galicia, Porta do Miño, 70cl.",4.5
+19,224,30,"Vino de Oporto Extra Dry White, Portal, 750ml.",4.5
+20,239,19,"Alga Nori Copos, 100 gr.",3.9
+21,143,19,"Grelos al Natural, A ROSALEIRA, 380 gr.",3.9
+22,141,19,"Setas ( Pleurotus Ostreatus) al Natural,  A ROSALEIRA, 400 gr.",3.9
+23,260,19,"Melisa Infusion Bio, 25 gr.",3.9
+24,258,19,"Hierba Luisa Infusion Bio, 25 gr.",3.9
+25,162,19,"Crackers de Espelta, Sesamo y Algas, 150 gr.",3.9
+26,233,33,"Alvariño Terras Gauda, 75 cl.",4.0
+27,303,33,"Zamburiñas con Salsa Vieira, Pescamar Gourmet, 111 gr.",4.0
+28,324,33,"Paté de Pulpo a la Gallega, 100 gr, MareTerra Deluque",4.0
+29,153,34,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.8
+30,312,9,"Paté de Atún y Sardina, Manná, 88g (4 x 22g)",4.0
+31,153,36,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.0
+32,154,36,"Pisto con Algas ( tomate, cebolla, calabacin, pimiento y alga wakame), ALGAMAR, 420 gr.",4.0
+33,159,36,"Palitos Integrales de Sesamo y Algas, 150 gr.",4.0
+34,157,36,"Alga Espagueti de Mar, ALGAMAR, 100 gr.",4.0
+35,153,34,"Bellota Tostada Pelada, TERRIUS, 200 gr.",3.9
+36,163,34,"Almendra, Galletas Tradicionales Galegas, XIANAS, 200 gr.",3.9
+37,221,9,"Vino Mateus The Original, 75cl.",4.1
+38,308,9,"Mejillón al Natural, Pescamar, 111gr. Pack 6 latas",4.1
+39,305,37,"Mejillón en escabeche con aceite de Oliva, Pescamar Gourmet, 111 gr.",4.0
+40,307,9,"Atún claro con aceite de oliva, Pescamar, 110 gr. (Pack 6 latas)",4.8
+41,177,9,"Vatel-Flor de Sal Algarve, 175 gr.",4.8
+42,307,9,"Atún claro con aceite de oliva, Pescamar, 110 gr. (Pack 6 latas)",3.9
+43,308,9,"Mejillón al Natural, Pescamar, 111gr. Pack 6 latas",3.9
+44,218,39,"Vino Gran Alanis Godello Ribeiro D.O, 75 cl.",4.8
+45,308,9,"Mejillón al Natural, Pescamar, 111gr. Pack 6 latas",4.5
+46,43,9,"Gallo-Vinagre de vino aromatizado con limón, 250 ml.",4.5
+47,308,9,"Mejillón al Natural, Pescamar, 111gr. Pack 6 latas",4.1
+48,307,35,"Atún claro con aceite de oliva, Pescamar, 110 gr. (Pack 6 latas)",4.8
+49,307,9,"Atún claro con aceite de oliva, Pescamar, 110 gr. (Pack 6 latas)",4.1
+50,307,9,"Atún claro con aceite de oliva, Pescamar, 110 gr. (Pack 6 latas)",4.1
+51,303,9,"Zamburiñas con Salsa Vieira, Pescamar Gourmet, 111 gr.",4.8
+52,307,9,"Atún claro con aceite de oliva, Pescamar, 110 gr. (Pack 6 latas)",4.6
+53,307,9,"Atún claro con aceite de oliva, Pescamar, 110 gr. (Pack 6 latas)",4.6
+54,242,42,"Alga Nori para Sushi, 25 gr.",3.5
+55,158,42,"Wakame Undaria, ALGAMAR, 100 gr.",3.5
+56,239,42,"Alga Nori Copos, 100 gr.",3.5
+57,150,44,"Harina de Bellota pelada, TERRIUS, 200gr.",4.5
+58,151,44,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",4.5
+59,153,44,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.5
+60,323,44,"Paté de Chipirón en su tinta, 100gr., MareTerra Deluque",4.5
+61,150,45,"Harina de Bellota pelada, TERRIUS, 200gr.",4.1
+62,150,51,"Harina de Bellota pelada, TERRIUS, 200gr.",3.7
+63,150,52,"Harina de Bellota pelada, TERRIUS, 200gr.",4.5
+64,150,53,"Harina de Bellota pelada, TERRIUS, 200gr.",4.6
+65,153,53,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.6
+66,151,53,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",4.6
+67,156,53,"Paté Vegetal con Algas, ALGAMAR, 180 gr.",4.6
+68,257,54,"Polvo de alga percebe (Codium), 30 gr.",4.5
+69,150,55,"Harina de Bellota pelada, TERRIUS, 200gr.",4.6
+70,177,57,"Vatel-Flor de Sal Algarve, 175 gr.",4.7
+71,150,60,"Harina de Bellota pelada, TERRIUS, 200gr.",4.5
+72,258,47,"Hierba Luisa Infusion Bio, 25 gr.",4.6
+73,217,47,"Vino 2015 Bioma Douro, Neipoort, 75cl.",4.7
+74,176,47,"Petroni-Vermouth Rojo, 1000ml.",4.0
+75,323,9,"Paté de Chipirón en su tinta, 100gr., MareTerra Deluque",4.7
+76,150,71,"Harina de Bellota pelada, TERRIUS, 200gr.",4.5
+77,151,71,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",4.6
+78,150,76,"Harina de Bellota pelada, TERRIUS, 200gr.",4.7
+79,311,78,"Torta Imperial, Almendro, 200gr.",4.7
+80,314,77,"ALMAOLIVA, Aceite Bio, Almazaras de la Subbética,  lata 500 ml.",4.6
+81,150,76,"Harina de Bellota pelada, TERRIUS, 200gr.",3.9
+82,176,20,"Petroni-Vermouth Rojo, 1000ml.",3.9
+83,301,20,"Vermouth Blanco, Petroni, 1000ml.",3.9
+84,176,47,"Petroni-Vermouth Rojo, 1000ml.",4.6
+85,217,47,"Vino 2015 Bioma Douro, Neipoort, 75cl.",4.0
+86,148,9,"Chutney de Tomate Seco, TERRIUS, 190 gr.",4.3
+87,262,9,"Perpetua, Flor de Santa Lucia (GOMPHRENA GLOBOSA) Bio, 25 gr.",3.9
+88,217,47,"Vino 2015 Bioma Douro, Neipoort, 75cl.",4.5
+89,176,47,"Petroni-Vermouth Rojo, 1000ml.",4.0
+90,148,47,"Chutney de Tomate Seco, TERRIUS, 190 gr.",4.3
+91,147,47,"Chutney de Setas, TERRIUS, 190 gr.",4.6
+92,147,47,"Chutney de Setas, TERRIUS, 190 gr.",3.9
+93,147,47,"Chutney de Setas, TERRIUS, 190 gr.",4.6
+94,148,47,"Chutney de Tomate Seco, TERRIUS, 190 gr.",4.7
+95,153,47,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.2
+96,150,81,"Harina de Bellota pelada, TERRIUS, 200gr.",2.0
+97,262,82,"Perpetua, Flor de Santa Lucia (GOMPHRENA GLOBOSA) Bio, 25 gr.",3.7
+98,288,82,"Marron Glacé, 150g Posada",3.7
+99,150,83,"Harina de Bellota pelada, TERRIUS, 200gr.",4.7
+100,153,83,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.7
+101,323,9,"Paté de Chipirón en su tinta, 100gr., MareTerra Deluque",4.3
+102,312,9,"Paté de Atún y Sardina, Manná, 88g (4 x 22g)",3.9
+103,290,9,Mermelada de fresa QJ 280g,4.6
+104,240,85,"Alga Dulse (Palmaria), 100 gr.",4.7
+105,238,85,"Alga Kombu, 100 gr.",4.7
+106,158,85,"Wakame Undaria, ALGAMAR, 100 gr.",4.7
+107,239,85,"Alga Nori Copos, 100 gr.",4.7
+108,274,33,Aceite de Oliva Extra Virgen: Oro de Cánava selección Cosecha Temprana 500ml,4.5
+109,289,33,Mermelada de Calabaza con Nuez QJ 280g,4.5
+110,324,33,"Paté de Pulpo a la Gallega, 100 gr, MareTerra Deluque",4.5
+111,353,33,"Paté de aceituna Manzanilla, 110 grs, José Lou",4.5
+112,38,89,Gallo- MoonLight Aceite Virgen Extra 500ml,5.0
+113,150,90,"Harina de Bellota pelada, TERRIUS, 200gr.",3.5
+114,257,93,"Polvo de alga percebe (Codium), 30 gr.",3.5
+115,274,94,Aceite de Oliva Extra Virgen: Oro de Cánava selección Cosecha Temprana 500ml,5.0
+116,305,94,"Mejillón en escabeche con aceite de Oliva, Pescamar Gourmet, 111 gr.",5.0
+117,356,94,"Galletas Mariñeiras con Aceite de Oliva, 100 grs, Daveiga",5.0
+118,176,94,"Petroni-Vermouth Rojo, 1000ml.",5.0
+119,320,94,"Té aromatizado Frutos del Bosque, it Rooibos QJ 100g",5.0
+120,145,94,"Pimientos del Piquillo Asados, TERRIUS, 225 gr.",5.0
+121,290,94,Mermelada de fresa QJ 280g,5.0
+122,291,94,Mermelada de naranja QJ 280g,5.0
+123,292,94,Mermelada de Higos con Nueces QJ 280g,5.0
+124,148,94,"Chutney de Tomate Seco, TERRIUS, 190 gr.",5.0
+125,31,94,"Licor De Hierbas De Galicia, Porta do Miño, 70cl.",5.0
+126,258,94,"Hierba Luisa Infusion Bio, 25 gr.",5.0
+127,322,94,"Paté de Centollo, 100gr. , MareTerra Deluque",5.0
+128,177,94,"Vatel-Flor de Sal Algarve, 175 gr.",5.0
+129,324,94,"Paté de Pulpo a la Gallega, 100 gr, MareTerra Deluque",5.0
+130,150,95,"Harina de Bellota pelada, TERRIUS, 200gr.",4.8
+131,368,96,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.8
+132,151,99,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",4.2
+133,149,99,"Harina de Boletus Edulis, TERRIUS, 70 gr.",4.2
+134,368,99,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.2
+135,343,102,Cesta Costa de Galicia,4.6
+136,158,100,"Wakame Undaria, ALGAMAR, 100 gr.",4.6
+137,45,100,"O Submarino-Ostras al Natural en agua de Mar (6-8 ostras), 115 gr.",4.6
+138,305,100,"Mejillón en escabeche con aceite de Oliva, Pescamar Gourmet, 111 gr.",4.6
+139,322,100,"Paté de Centollo, 100gr. , MareTerra Deluque",4.6
+140,312,100,"Paté de Atún y Sardina, Manná, 88g (4 x 22g)",4.6
+141,324,100,"Paté de Pulpo a la Gallega, 100 gr, MareTerra Deluque",4.6
+142,343,103,Cesta Costa de Galicia,4.8
+143,366,103,CAJA  TURRÓN,4.8
+144,140,47,"Berzas al Natural ,  A ROSALEIRA, 410 gr.",4.8
+145,346,47,"Tortita 5 Cereales con Algas ECO, 140 gr., Algamar",4.8
+146,217,107,"Vino 2015 Bioma Douro, Neipoort, 75cl.",4.8
+147,369,108,Cesta Manjar Portugues,4.8
+148,217,107,"Vino 2015 Bioma Douro, Neipoort, 75cl.",4.8
+149,343,112,Cesta Costa de Galicia,4.8
+150,343,112,Cesta Costa de Galicia,4.8
+151,343,114,Cesta Costa de Galicia,4.8
+152,222,113,"Pecado Capital Vino Verde Blanco 2017, 75cl.",4.8
+153,153,115,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.8
+154,134,115,"O Submarino-Ostras en Escabeche vermelho  (6-8 ostras), 115 gr.",4.8
+155,257,118,"Polvo de alga percebe (Codium), 30 gr.",4.8
+156,148,118,"Chutney de Tomate Seco, TERRIUS, 190 gr.",4.8
+157,277,119,"Turrón Jijona - Antiu Xixona, 200 gr.",4.8
+158,242,42,"Alga Nori para Sushi, 25 gr.",4.8
+159,234,107,"6 Barrels Tawny Reserve Vino de Oporto, 750ml",4.8
+160,234,107,"6 Barrels Tawny Reserve Vino de Oporto, 750ml",4.8
+161,221,9,"Vino Mateus The Original, 75cl.",4.5
+162,177,125,"Vatel-Flor de Sal Algarve, 175 gr.",4.5
+163,298,125,"Flor de Sal en recipiente de corcho, Algarve, Salmarim, 70g",4.5
+164,299,125,"Flor de Sal Limón, Algarve, Salmarim 100g",4.5
+165,300,125,"Flor De Sal Portatil, Algarve, Salmarim, 3 sales, 12 gr.",4.5
+166,276,128,"Turrón Alicante - Antiu Xixona, 200gr.",4.4
+167,176,47,"Petroni-Vermouth Rojo, 1000ml.",4.4
+168,176,47,"Petroni-Vermouth Rojo, 1000ml.",4.4
+169,313,130,"Amendoa Amarga Amarguinha licor, Xarão 700ml",4.4
+170,234,47,"6 Barrels Tawny Reserve Vino de Oporto, 750ml",4.4
+171,143,19,"Grelos al Natural, A ROSALEIRA, 380 gr.",4.4
+172,162,19,"Crackers de Espelta, Sesamo y Algas, 150 gr.",4.4
+173,140,19,"Berzas al Natural ,  A ROSALEIRA, 410 gr.",4.4
+174,141,19,"Setas ( Pleurotus Ostreatus) al Natural,  A ROSALEIRA, 400 gr.",4.4
+175,352,19,"Aceituna aliñada de la abuela 200 grs., José Lou",4.4
+176,144,19,"Zaragallada al Natural, A ROSALEIRA, 410 gr.",4.4
+177,301,20,"Vermouth Blanco, Petroni, 1000ml.",3.5
+178,150,131,"Harina de Bellota pelada, TERRIUS, 200gr.",3.5
+179,151,131,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",3.5
+180,150,135,"Harina de Bellota pelada, TERRIUS, 200gr.",3.5
+181,349,137,"Pepinillos sabor anchoa 250 grs., José Lou",3.5
+182,315,139,"Muralhas de Monção, Vino Verde 750ml",3.5
+183,368,96,"Harina de Bellota pelada, TERRIUS, 1Kg.",3.5
+184,368,96,"Harina de Bellota pelada, TERRIUS, 1Kg.",3.5
+185,352,140,"Aceituna aliñada de la abuela 200 grs., José Lou",3.5
+186,139,141,"Tomate al Natural Extra, A ROSALEIRA 420 gr.",3.5
+187,262,145,"Perpetua, Flor de Santa Lucia (GOMPHRENA GLOBOSA) Bio, 25 gr.",3.5
+188,301,20,"Vermouth Blanco, Petroni, 1000ml.",3.5
+189,352,140,"Aceituna aliñada de la abuela 200 grs., José Lou",3.5
+190,314,140,"ALMAOLIVA, Aceite Bio, Almazaras de la Subbética,  lata 500 ml.",3.5
+191,368,96,"Harina de Bellota pelada, TERRIUS, 1Kg.",3.5
+192,283,147,"Chocolate Negro 85% Cacao, 100gr., Antiu Xixona",3.9
+193,29,148,"Licor Café de Galicia, Porta do Miño, 70cl.",3.9
+194,290,148,Mermelada de fresa QJ 280g,3.9
+195,368,131,"Harina de Bellota pelada, TERRIUS, 1Kg.",3.9
+196,45,151,"O Submarino-Ostras al Natural en agua de Mar (6-8 ostras), 115 gr.",3.9
+197,352,140,"Aceituna aliñada de la abuela 200 grs., José Lou",3.9
+198,352,33,"Aceituna aliñada de la abuela 200 grs., José Lou",3.9
+199,306,33,"Ventresca de Bonito del Norte en aceite de oliva, Pescamar Gourmet,  110 gr.",3.9
+200,305,33,"Mejillón en escabeche con aceite de Oliva, Pescamar Gourmet, 111 gr.",3.9
+201,378,33,"Harina de manzana: Mazana Bravo Esmolfe, Terrius, 500 gr.",3.9
+202,284,33,"Chocolate Negro sin azucar,125gr. , Antiu Xixona",3.9
+203,176,33,"Petroni-Vermouth Rojo, 1000ml.",3.9
+204,149,33,"Harina de Boletus Edulis, TERRIUS, 70 gr.",3.9
+205,152,33,"Castaña de Marvão Deshidratada Ahumada, TERRIUS, 200 gr.",3.9
+206,292,33,Mermelada de Higos con Nueces QJ 280g,3.9
+207,148,33,"Chutney de Tomate Seco, TERRIUS, 190 gr.",3.9
+208,255,9,"Paté kombu con anchoas, 120 gr.",3.9
+209,249,19,"Pasta integral con algas Espagueti, 250 gr.",4.8
+210,176,19,"Petroni-Vermouth Rojo, 1000ml.",4.8
+211,144,19,"Zaragallada al Natural, A ROSALEIRA, 410 gr.",4.8
+212,141,19,"Setas ( Pleurotus Ostreatus) al Natural,  A ROSALEIRA, 400 gr.",4.8
+213,39,19,"Aceite Virgen Extra Biológico - Aceite de Moura DOP ( CAMB), 750ml.",4.8
+214,228,19,"QP Syrah Vino Regional Alentejano, 75cl.",4.8
+215,145,19,"Pimientos del Piquillo Asados, TERRIUS, 225 gr.",4.8
+216,381,19,Regalo día de la Madre Trabajadora,4.8
+217,381,155,Regalo día de la Madre Trabajadora,4.8
+218,381,156,Regalo día de la Madre Trabajadora,4.8
+219,304,151,"Sardinillas con Aceite de Oliva, Pescamar Gourmet, 115 gr.",4.8
+220,383,158,Regalo día de la Madre Luchadora,4.8
+221,315,159,"Muralhas de Monção, Vino Verde 750ml",4.8
+222,29,148,"Licor Café de Galicia, Porta do Miño, 70cl.",4.8
+223,383,161,Regalo día de la Madre Luchadora,4.8
+224,41,163,"Gallo-Vinagre de vino espumante, 250 ml.",4.8
+225,294,163,Aceite Extra Virgen con Oregano QJ 50cl,4.8
+226,141,163,"Setas ( Pleurotus Ostreatus) al Natural,  A ROSALEIRA, 400 gr.",4.8
+227,360,163,"Almendrados de Allariz, Fina Rei 150 gr.",4.8
+228,293,163,Vinagre de Miel QJ 50cl,4.8
+229,313,164,"Amendoa Amarga Amarguinha licor, Xarão 700ml",4.8
+230,42,167,"Gallo-Vinagre balsámico rosé, 250 ml.",4.8
+231,215,169,"Licor Ginja Caldas de Óbidos, 50 cl.",4.8
+232,150,171,"Harina de Bellota pelada, TERRIUS, 200gr.",4.8
+233,153,172,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.8
+234,152,172,"Castaña de Marvão Deshidratada Ahumada, TERRIUS, 200 gr.",4.8
+235,141,172,"Setas ( Pleurotus Ostreatus) al Natural,  A ROSALEIRA, 400 gr.",4.8
+236,299,173,"Flor de Sal Limón, Algarve, Salmarim 100g",4.8
+237,301,20,"Vermouth Blanco, Petroni, 1000ml.",4.8
+238,352,140,"Aceituna aliñada de la abuela 200 grs., José Lou",4.8
+239,322,175,"Paté de Centollo, 100gr. , MareTerra Deluque",4.8
+240,374,175,"Paté de Atún en Aceite de Oliva, Briosa Conservas Gourmet, 75g",4.8
+241,373,175,"Paté de Bacalao, Briosa Conservas Gourmet, 75g",4.8
+242,368,176,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.8
+243,313,177,"Amendoa Amarga Amarguinha licor, Xarão 700ml",4.8
+244,272,178,"Vino Mencia by Paco & Lola, 75 cl.",4.8
+245,271,178,"Vino N.º 12 Paco & Lola, 75 cl.",4.0
+246,44,181,"Gallo-Vinagre balsámico de modena, 250 ml.",4.0
+247,349,183,"Pepinillos sabor anchoa 250 grs., José Lou",4.0
+248,28,184,"Ostra en vinagreta de albariño 6 - 8 piezas O Submarino, 115 gr.",4.0
+249,233,184,"Alvariño Terras Gauda, 75 cl.",4.0
+250,322,184,"Paté de Centollo, 100gr. , MareTerra Deluque",4.0
+251,355,184,"Galletas Mariñeiras con Algas wakame, 100grs , Daveiga",4.0
+252,305,184,"Mejillón en escabeche con aceite de Oliva, Pescamar Gourmet, 111 gr.",4.0
+253,308,184,"Mejillón al Natural, Pescamar, 111gr. Pack 6 latas",4.0
+254,359,186,Pack Vermut Petroni,4.0
+255,242,187,"Alga Nori para Sushi, 25 gr.",4.0
+256,140,187,"Berzas al Natural ,  A ROSALEIRA, 410 gr.",4.0
+257,145,187,"Pimientos del Piquillo Asados, TERRIUS, 225 gr.",4.0
+258,368,185,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.0
+259,373,175,"Paté de Bacalao, Briosa Conservas Gourmet, 75g",4.0
+260,374,175,"Paté de Atún en Aceite de Oliva, Briosa Conservas Gourmet, 75g",4.0
+261,29,148,"Licor Café de Galicia, Porta do Miño, 70cl.",4.0
+262,322,193,"Paté de Centollo, 100gr. , MareTerra Deluque",4.0
+263,375,193,"Paté de Caballa Picante en Aceite de Oliva, Briosa Conservas Gourmet, 75g",4.0
+264,349,193,"Pepinillos sabor anchoa 250 grs., José Lou",4.0
+265,268,193,"Estragón Francés, 15 gr.",4.0
+266,269,193,"Tomillo limón Bio, 25 gr.",4.0
+267,238,194,"Alga Kombu, 100 gr.",4.0
+268,368,131,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.0
+269,368,196,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.0
+270,352,140,"Aceituna aliñada de la abuela 200 grs., José Lou",4.0
+271,313,199,"Amendoa Amarga Amarguinha licor, Xarão 700ml",4.0
+272,342,200,Cesta Sabores del Atlántico,4.0
+273,301,20,"Vermouth Blanco, Petroni, 1000ml.",4.0
+274,374,175,"Paté de Atún en Aceite de Oliva, Briosa Conservas Gourmet, 75g",4.0
+275,373,175,"Paté de Bacalao, Briosa Conservas Gourmet, 75g",4.0
+276,315,202,"Muralhas de Monção, Vino Verde 750ml",4.0
+277,368,204,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.0
+278,368,208,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.0
+279,359,209,Pack Vermut Petroni,4.0
+280,352,140,"Aceituna aliñada de la abuela 200 grs., José Lou",4.0
+281,143,213,"Grelos al Natural, A ROSALEIRA, 380 gr.",4.0
+282,306,213,"Ventresca de Bonito del Norte en aceite de oliva, Pescamar Gourmet,  110 gr.",4.0
+283,304,213,"Sardinillas con Aceite de Oliva, Pescamar Gourmet, 115 gr.",4.0
+284,145,213,"Pimientos del Piquillo Asados, TERRIUS, 225 gr.",4.0
+285,315,214,"Muralhas de Monção, Vino Verde 750ml",4.0
+286,313,215,"Amendoa Amarga Amarguinha licor, Xarão 700ml",4.0
+287,176,215,"Petroni-Vermouth Rojo, 1000ml.",4.0
+288,144,215,"Zaragallada al Natural, A ROSALEIRA, 410 gr.",4.0
+289,141,215,"Setas ( Pleurotus Ostreatus) al Natural,  A ROSALEIRA, 400 gr.",4.0
+290,145,215,"Pimientos del Piquillo Asados, TERRIUS, 225 gr.",4.0
+291,386,215,"Gallo- Selección Planicies del Sur, Aceite Virgen Extra 750ml",4.0
+292,314,215,"ALMAOLIVA, Aceite Bio, Almazaras de la Subbética,  lata 500 ml.",4.0
+293,177,215,"Vatel-Flor de Sal Algarve, 175 gr.",4.0
+294,373,215,"Paté de Bacalao, Briosa Conservas Gourmet, 75g",4.0
+295,374,215,"Paté de Atún en Aceite de Oliva, Briosa Conservas Gourmet, 75g",4.0
+296,216,216,"Vino Moscatel Alambre de Setúbal, 750 ml.",4.8
+297,288,216,"Marron Glacé, 150g Posada",4.8
+298,300,217,"Flor De Sal Portatil, Algarve, Salmarim, 3 sales, 12 gr.",4.8
+299,299,217,"Flor de Sal Limón, Algarve, Salmarim 100g",4.8
+300,298,217,"Flor de Sal en recipiente de corcho, Algarve, Salmarim, 70g",4.8
+301,39,218,"Aceite Virgen Extra Biológico - Aceite de Moura DOP ( CAMB), 750ml.",4.8
+302,34,222,"Licor de Ginja Caldas de Óbidos, 100 ml.",4.8
+303,352,140,"Aceituna aliñada de la abuela 200 grs., José Lou",4.8
+304,315,226,"Muralhas de Monção, Vino Verde 750ml",4.8
+305,368,225,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.8
+306,150,228,"Harina de Bellota pelada, TERRIUS, 200gr.",4.8
+307,153,228,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.8
+308,313,229,"Amendoa Amarga Amarguinha licor, Xarão 700ml",3.8
+309,150,231,"Harina de Bellota pelada, TERRIUS, 200gr.",3.8
+310,344,231,Chocolate Negro 72% con Ulva y Menta ECO. 100 gr. Algamar,3.8
+311,152,231,"Castaña de Marvão Deshidratada Ahumada, TERRIUS, 200 gr.",3.8
+312,287,231,"Castañas al natural, 250g Posada",3.8
+313,151,233,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",3.8
+314,301,20,"Vermouth Blanco, Petroni, 1000ml.",3.8
+315,262,234,"Perpetua, Flor de Santa Lucia (GOMPHRENA GLOBOSA) Bio, 25 gr.",3.8
+316,150,235,"Harina de Bellota pelada, TERRIUS, 200gr.",3.8
+317,153,235,"Bellota Tostada Pelada, TERRIUS, 200 gr.",3.8
+318,368,240,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.2
+319,343,241,Cesta Costa de Galicia,4.2
+320,152,242,"Castaña de Marvão Deshidratada Ahumada, TERRIUS, 200 gr.",4.2
+321,156,242,"Paté Vegetal con Algas, ALGAMAR, 180 gr.",4.2
+322,368,242,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.2
+323,352,242,"Aceituna aliñada de la abuela 200 grs., José Lou",4.2
+324,350,242,"Aceitunas verdes aliñadas al estilo provenzal, 200 grs., José Lou",4.2
+325,368,131,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.2
+326,39,246,"Aceite Virgen Extra Biológico - Aceite de Moura DOP ( CAMB), 750ml.",4.2
+327,153,247,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.2
+328,45,247,"O Submarino-Ostras al Natural en agua de Mar (6-8 ostras), 115 gr.",4.2
+329,28,247,"Ostra en vinagreta de albariño 6 - 8 piezas O Submarino, 115 gr.",4.2
+330,288,248,"Marron Glacé, 150g Posada",4.2
+331,315,250,"Muralhas de Monção, Vino Verde 750ml",4.2
+332,38,252,Gallo- MoonLight Aceite Virgen Extra 500ml,4.2
+333,150,255,"Harina de Bellota pelada, TERRIUS, 200gr.",4.2
+334,151,255,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",4.2
+335,299,256,"Flor de Sal Limón, Algarve, Salmarim 100g",4.2
+336,28,258,"Ostra en vinagreta de albariño 6 - 8 piezas O Submarino, 115 gr.",4.2
+337,150,259,"Harina de Bellota pelada, TERRIUS, 200gr.",4.2
+338,368,261,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.2
+339,352,140,"Aceituna aliñada de la abuela 200 grs., José Lou",4.2
+340,315,266,"Muralhas de Monção, Vino Verde 750ml",4.2
+341,313,267,"Amendoa Amarga Amarguinha licor, Xarão 700ml",4.2
+342,388,269,Cesta Selección Ibérica,4.2
+343,388,269,Cesta Selección Ibérica,4.2
+344,359,272,Pack Vermut Petroni,4.2
+345,345,274,"Agar-Agar en copos (Gelidium), 50 gr.",4.8
+346,304,274,"Sardinillas con Aceite de Oliva, Pescamar Gourmet, 115 gr.",4.8
+347,307,274,"Atún claro con aceite de oliva, Pescamar, 110 gr. (Pack 6 latas)",4.8
+348,177,274,"Vatel-Flor de Sal Algarve, 175 gr.",4.8
+349,353,274,"Paté de aceituna Manzanilla, 110 grs, José Lou",4.8
+350,344,274,Chocolate Negro 72% con Ulva y Menta ECO. 100 gr. Algamar,4.8
+351,348,274,"Banderilla Pepino Picante Entero em Vinagre 150 grs., José Lou",4.8
+352,349,274,"Pepinillos sabor anchoa 250 grs., José Lou",4.8
+353,350,274,"Aceitunas verdes aliñadas al estilo provenzal, 200 grs., José Lou",4.8
+354,356,274,"Galletas Mariñeiras con Aceite de Oliva, 100 grs, Daveiga",4.8
+355,225,20,"Vino Douro Valley Verdelho Sauvignon Blanc, Portal, 75cl.",4.9
+356,228,20,"QP Syrah Vino Regional Alentejano, 75cl.",4.9
+357,230,20,"Vino Quinta da Pinheira Borba D.O. controlada, 75cl.",4.9
+358,233,20,"Alvariño Terras Gauda, 75 cl.",4.9
+359,271,20,"Vino N.º 12 Paco & Lola, 75 cl.",4.9
+360,220,20,"Vino Luis Cañas Crianza 2009 Rioja, 75 cl.",4.9
+361,309,20,"Vino Terras Gauda Etiqueta Negra 2016, 75 cl.",4.9
+362,301,20,"Vermouth Blanco, Petroni, 1000ml.",4.9
+363,227,20,"Vino Oporto Natura Graham's, 75cl.",4.9
+364,272,20,"Vino Mencia by Paco & Lola, 75 cl.",4.9
+365,232,20,"Via Romana Vegan, Mencia, Ribera Sacra, 75 cl.",4.9
+366,359,276,Pack Vermut Petroni,4.1
+367,388,276,Cesta Selección Ibérica,4.1
+368,362,277,Cesta Gourmet Saudades de Portugal,4.1
+369,150,282,"Harina de Bellota pelada, TERRIUS, 200gr.",4.9
+370,151,282,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",4.9
+371,309,96,"Vino Terras Gauda Etiqueta Negra 2016, 75 cl.",5.0
+372,227,96,"Vino Oporto Natura Graham's, 75cl.",5.0
+373,176,96,"Petroni-Vermouth Rojo, 1000ml.",5.0
+374,350,96,"Aceitunas verdes aliñadas al estilo provenzal, 200 grs., José Lou",5.0
+375,303,96,"Zamburiñas con Salsa Vieira, Pescamar Gourmet, 111 gr.",5.0
+376,356,96,"Galletas Mariñeiras con Aceite de Oliva, 100 grs, Daveiga",5.0
+377,324,96,"Paté de Pulpo a la Gallega, 100 gr, MareTerra Deluque",5.0
+378,271,96,"Vino N.º 12 Paco & Lola, 75 cl.",5.0
+379,135,96,"O Submarino-Paté de Ostra con Castaña, 85 gr.",5.0
+380,138,96,"O Submarino-Paté de Berberecho con castaña, 85 gr.",5.0
+381,306,96,"Ventresca de Bonito del Norte en aceite de oliva, Pescamar Gourmet,  110 gr.",5.0
+382,304,96,"Sardinillas con Aceite de Oliva, Pescamar Gourmet, 115 gr.",5.0
+383,305,96,"Mejillón en escabeche con aceite de Oliva, Pescamar Gourmet, 111 gr.",5.0
+384,32,284,"Beirão Licor, 70 cl.",4.4
+385,35,284,"Licor de Ginja Caldas de Óbidos, 200 ml.",4.4
+386,227,284,"Vino Oporto Natura Graham's, 75cl.",4.4
+387,388,287,Cesta Selección Ibérica,4.4
+388,335,287,Cesta Gourmet Alêm-Tejo,4.4
+389,362,288,Cesta Gourmet Saudades de Portugal,3.7
+390,390,291,Cesta Regalito de Portugal,4.5
+391,368,292,"Harina de Bellota pelada, TERRIUS, 1Kg.",3.8
+392,264,293,"Menta-Chocolate (MENTA PIPERITA CHOCOLATE) infusion Bio, 25 gr.",4.5
+393,242,293,"Alga Nori para Sushi, 25 gr.",4.5
+394,368,294,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.4
+395,151,294,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",4.4
+396,390,296,Cesta Regalito de Portugal,3.8
+397,388,96,Cesta Selección Ibérica,3.7
+398,343,299,Cesta Costa de Galicia,4.4
+399,301,20,"Vermouth Blanco, Petroni, 1000ml.",4.2
+400,149,302,"Harina de Boletus Edulis, TERRIUS, 70 gr.",4.2
+401,315,303,"Muralhas de Monção, Vino Verde 750ml",4.2
+402,150,304,"Harina de Bellota pelada, TERRIUS, 200gr.",4.2
+403,298,305,"Flor de Sal en recipiente de corcho, Algarve, Salmarim, 70g",4.2
+404,299,305,"Flor de Sal Limón, Algarve, Salmarim 100g",4.2
+405,300,305,"Flor De Sal Portatil, Algarve, Salmarim, 3 sales, 12 gr.",4.2
+406,224,306,"Vino de Oporto Extra Dry White, Portal, 750ml.",4.2
+407,154,215,"Pisto con Algas ( tomate, cebolla, calabacin, pimiento y alga wakame), ALGAMAR, 420 gr.",4.2
+408,143,215,"Grelos al Natural, A ROSALEIRA, 380 gr.",4.2
+409,257,308,"Polvo de alga percebe (Codium), 30 gr.",4.2
+410,150,311,"Harina de Bellota pelada, TERRIUS, 200gr.",4.2
+411,376,313,"Paté de Sardina en Aceite de Oliva, Briosa Conservas Gourmet, 75g",4.2
+412,176,20,"Petroni-Vermouth Rojo, 1000ml.",4.2
+413,368,96,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.2
+414,368,96,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.2
+415,390,314,Cesta Regalito de Portugal,4.3
+416,359,314,Pack Vermut Petroni,4.3
+417,28,317,"Ostra en vinagreta de albariño 6 - 8 piezas O Submarino, 115 gr.",4.3
+418,134,317,"O Submarino-Ostras en Escabeche vermelho  (6-8 ostras), 115 gr.",4.3
+419,150,318,"Harina de Bellota pelada, TERRIUS, 200gr.",4.3
+420,231,320,"Quinta do Ataíde 2014 Vino tinto Bio, 75cl.",4.3
+421,315,320,"Muralhas de Monção, Vino Verde 750ml",4.3
+422,153,322,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.3
+423,368,96,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.3
+424,368,325,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.3
+425,31,30,"Licor De Hierbas De Galicia, Porta do Miño, 70cl.",4.8
+426,29,30,"Licor Café de Galicia, Porta do Miño, 70cl.",4.8
+427,368,131,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.2
+428,378,328,"Harina de manzana: Mazana Bravo Esmolfe, Terrius, 500 gr.",4.1
+429,387,328,Gallo- Late Harvest Aceite Virgen Extra 500ml,4.1
+430,270,328,"Albahaca Limón Bio, 20 gr.",4.1
+431,313,329,"Amendoa Amarga Amarguinha licor, Xarão 700ml",3.9
+432,143,215,"Grelos al Natural, A ROSALEIRA, 380 gr.",4.0
+433,139,215,"Tomate al Natural Extra, A ROSALEIRA 420 gr.",4.0
+434,141,215,"Setas ( Pleurotus Ostreatus) al Natural,  A ROSALEIRA, 400 gr.",4.0
+435,144,215,"Zaragallada al Natural, A ROSALEIRA, 410 gr.",4.0
+436,314,215,"ALMAOLIVA, Aceite Bio, Almazaras de la Subbética,  lata 500 ml.",4.0
+437,143,20,"Grelos al Natural, A ROSALEIRA, 380 gr.",4.5
+438,314,20,"ALMAOLIVA, Aceite Bio, Almazaras de la Subbética,  lata 500 ml.",4.5
+439,374,20,"Paté de Atún en Aceite de Oliva, Briosa Conservas Gourmet, 75g",4.5
+440,233,33,"Alvariño Terras Gauda, 75 cl.",4.5
+447,217,6,"Vino 2015 Bioma Douro, Neipoort, 75cl.",4.0
+448,176,9,"Petroni-Vermouth Rojo, 1000ml.",3.0
+449,159,9,"Palitos Integrales de Sesamo y Algas, 150 gr.",3.0
+450,217,6,"Vino 2015 Bioma Douro, Neipoort, 75cl.",4.0
+451,37,11,Gallo-Classico azeite virgem extra,4.5
+452,217,12,"Vino 2015 Bioma Douro, Neipoort, 75cl.",4.7
+453,134,12,"O Submarino-Ostras en Escabeche vermelho  (6-8 ostras), 115 gr.",4.7
+454,221,19,"Vino Mateus The Original, 75cl.",4.5
+455,138,20,"O Submarino-Paté de Berberecho con castaña, 85 gr.",4.0
+456,282,9,"Chocolate Negro 72% cacao, 100gr. , Antiu Xixona",3.0
+457,38,23,Gallo- MoonLight Aceite Virgen Extra 500ml,4.0
+458,29,30,"Licor Café de Galicia, Porta do Miño, 70cl.",4.5
+459,224,30,"Vino de Oporto Extra Dry White, Portal, 750ml.",4.5
+460,239,19,"Alga Nori Copos, 100 gr.",3.9
+461,143,19,"Grelos al Natural, A ROSALEIRA, 380 gr.",3.9
+462,141,19,"Setas ( Pleurotus Ostreatus) al Natural,  A ROSALEIRA, 400 gr.",3.9
+463,260,19,"Melisa Infusion Bio, 25 gr.",3.9
+464,258,19,"Hierba Luisa Infusion Bio, 25 gr.",3.9
+465,162,19,"Crackers de Espelta, Sesamo y Algas, 150 gr.",3.9
+466,233,33,"Alvariño Terras Gauda, 75 cl.",4.0
+467,303,33,"Zamburiñas con Salsa Vieira, Pescamar Gourmet, 111 gr.",4.0
+468,324,33,"Paté de Pulpo a la Gallega, 100 gr, MareTerra Deluque",4.0
+469,153,34,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.8
+470,312,9,"Paté de Atún y Sardina, Manná, 88g (4 x 22g)",4.0
+471,153,36,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.0
+472,154,36,"Pisto con Algas ( tomate, cebolla, calabacin, pimiento y alga wakame), ALGAMAR, 420 gr.",4.0
+473,159,36,"Palitos Integrales de Sesamo y Algas, 150 gr.",4.0
+474,157,36,"Alga Espagueti de Mar, ALGAMAR, 100 gr.",4.0
+475,153,34,"Bellota Tostada Pelada, TERRIUS, 200 gr.",3.9
+476,163,34,"Almendra, Galletas Tradicionales Galegas, XIANAS, 200 gr.",3.9
+477,221,9,"Vino Mateus The Original, 75cl.",4.1
+478,308,9,"Mejillón al Natural, Pescamar, 111gr. Pack 6 latas",4.1
+479,305,37,"Mejillón en escabeche con aceite de Oliva, Pescamar Gourmet, 111 gr.",4.0
+480,307,9,"Atún claro con aceite de oliva, Pescamar, 110 gr. (Pack 6 latas)",4.8
+481,177,9,"Vatel-Flor de Sal Algarve, 175 gr.",4.8
+482,307,9,"Atún claro con aceite de oliva, Pescamar, 110 gr. (Pack 6 latas)",3.9
+483,308,9,"Mejillón al Natural, Pescamar, 111gr. Pack 6 latas",3.9
+484,218,39,"Vino Gran Alanis Godello Ribeiro D.O, 75 cl.",4.8
+485,308,9,"Mejillón al Natural, Pescamar, 111gr. Pack 6 latas",4.5
+486,43,9,"Gallo-Vinagre de vino aromatizado con limón, 250 ml.",4.5
+487,308,9,"Mejillón al Natural, Pescamar, 111gr. Pack 6 latas",4.1
+488,307,35,"Atún claro con aceite de oliva, Pescamar, 110 gr. (Pack 6 latas)",4.8
+489,307,9,"Atún claro con aceite de oliva, Pescamar, 110 gr. (Pack 6 latas)",4.1
+490,307,9,"Atún claro con aceite de oliva, Pescamar, 110 gr. (Pack 6 latas)",4.1
+491,303,9,"Zamburiñas con Salsa Vieira, Pescamar Gourmet, 111 gr.",4.8
+492,307,9,"Atún claro con aceite de oliva, Pescamar, 110 gr. (Pack 6 latas)",4.6
+493,307,9,"Atún claro con aceite de oliva, Pescamar, 110 gr. (Pack 6 latas)",4.6
+494,242,42,"Alga Nori para Sushi, 25 gr.",3.5
+495,158,42,"Wakame Undaria, ALGAMAR, 100 gr.",3.5
+496,239,42,"Alga Nori Copos, 100 gr.",3.5
+497,150,44,"Harina de Bellota pelada, TERRIUS, 200gr.",4.5
+498,151,44,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",4.5
+499,153,44,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.5
+500,323,44,"Paté de Chipirón en su tinta, 100gr., MareTerra Deluque",4.5
+501,150,45,"Harina de Bellota pelada, TERRIUS, 200gr.",4.1
+502,150,51,"Harina de Bellota pelada, TERRIUS, 200gr.",3.7
+503,150,52,"Harina de Bellota pelada, TERRIUS, 200gr.",4.5
+504,150,53,"Harina de Bellota pelada, TERRIUS, 200gr.",4.6
+505,153,53,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.6
+506,151,53,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",4.6
+507,156,53,"Paté Vegetal con Algas, ALGAMAR, 180 gr.",4.6
+508,257,54,"Polvo de alga percebe (Codium), 30 gr.",4.5
+509,150,55,"Harina de Bellota pelada, TERRIUS, 200gr.",4.6
+510,177,57,"Vatel-Flor de Sal Algarve, 175 gr.",4.7
+511,150,60,"Harina de Bellota pelada, TERRIUS, 200gr.",4.5
+512,258,47,"Hierba Luisa Infusion Bio, 25 gr.",4.6
+513,217,47,"Vino 2015 Bioma Douro, Neipoort, 75cl.",4.7
+514,176,47,"Petroni-Vermouth Rojo, 1000ml.",4.0
+515,323,9,"Paté de Chipirón en su tinta, 100gr., MareTerra Deluque",4.7
+516,150,71,"Harina de Bellota pelada, TERRIUS, 200gr.",4.5
+517,151,71,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",4.6
+518,150,76,"Harina de Bellota pelada, TERRIUS, 200gr.",4.7
+519,311,78,"Torta Imperial, Almendro, 200gr.",4.7
+520,314,77,"ALMAOLIVA, Aceite Bio, Almazaras de la Subbética,  lata 500 ml.",4.6
+521,150,76,"Harina de Bellota pelada, TERRIUS, 200gr.",3.9
+522,176,20,"Petroni-Vermouth Rojo, 1000ml.",3.9
+523,301,20,"Vermouth Blanco, Petroni, 1000ml.",3.9
+524,176,47,"Petroni-Vermouth Rojo, 1000ml.",4.6
+525,217,47,"Vino 2015 Bioma Douro, Neipoort, 75cl.",4.0
+526,148,9,"Chutney de Tomate Seco, TERRIUS, 190 gr.",4.3
+527,262,9,"Perpetua, Flor de Santa Lucia (GOMPHRENA GLOBOSA) Bio, 25 gr.",3.9
+528,217,47,"Vino 2015 Bioma Douro, Neipoort, 75cl.",4.5
+529,176,47,"Petroni-Vermouth Rojo, 1000ml.",4.0
+530,148,47,"Chutney de Tomate Seco, TERRIUS, 190 gr.",4.3
+531,147,47,"Chutney de Setas, TERRIUS, 190 gr.",4.6
+532,147,47,"Chutney de Setas, TERRIUS, 190 gr.",3.9
+533,147,47,"Chutney de Setas, TERRIUS, 190 gr.",4.6
+534,148,47,"Chutney de Tomate Seco, TERRIUS, 190 gr.",4.7
+535,153,47,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.2
+536,150,81,"Harina de Bellota pelada, TERRIUS, 200gr.",2.0
+537,262,82,"Perpetua, Flor de Santa Lucia (GOMPHRENA GLOBOSA) Bio, 25 gr.",3.7
+538,288,82,"Marron Glacé, 150g Posada",3.7
+539,150,83,"Harina de Bellota pelada, TERRIUS, 200gr.",4.7
+540,153,83,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.7
+541,323,9,"Paté de Chipirón en su tinta, 100gr., MareTerra Deluque",4.3
+542,312,9,"Paté de Atún y Sardina, Manná, 88g (4 x 22g)",3.9
+543,290,9,Mermelada de fresa QJ 280g,4.6
+544,240,85,"Alga Dulse (Palmaria), 100 gr.",4.7
+545,238,85,"Alga Kombu, 100 gr.",4.7
+546,158,85,"Wakame Undaria, ALGAMAR, 100 gr.",4.7
+547,239,85,"Alga Nori Copos, 100 gr.",4.7
+548,274,33,Aceite de Oliva Extra Virgen: Oro de Cánava selección Cosecha Temprana 500ml,4.5
+549,289,33,Mermelada de Calabaza con Nuez QJ 280g,4.5
+550,324,33,"Paté de Pulpo a la Gallega, 100 gr, MareTerra Deluque",4.5
+551,353,33,"Paté de aceituna Manzanilla, 110 grs, José Lou",4.5
+552,38,89,Gallo- MoonLight Aceite Virgen Extra 500ml,5.0
+553,150,90,"Harina de Bellota pelada, TERRIUS, 200gr.",3.5
+554,257,93,"Polvo de alga percebe (Codium), 30 gr.",3.5
+555,274,94,Aceite de Oliva Extra Virgen: Oro de Cánava selección Cosecha Temprana 500ml,5.0
+556,305,94,"Mejillón en escabeche con aceite de Oliva, Pescamar Gourmet, 111 gr.",5.0
+557,356,94,"Galletas Mariñeiras con Aceite de Oliva, 100 grs, Daveiga",5.0
+558,176,94,"Petroni-Vermouth Rojo, 1000ml.",5.0
+559,320,94,"Té aromatizado Frutos del Bosque, it Rooibos QJ 100g",5.0
+560,145,94,"Pimientos del Piquillo Asados, TERRIUS, 225 gr.",5.0
+561,290,94,Mermelada de fresa QJ 280g,5.0
+562,291,94,Mermelada de naranja QJ 280g,5.0
+563,292,94,Mermelada de Higos con Nueces QJ 280g,5.0
+564,148,94,"Chutney de Tomate Seco, TERRIUS, 190 gr.",5.0
+565,31,94,"Licor De Hierbas De Galicia, Porta do Miño, 70cl.",5.0
+566,258,94,"Hierba Luisa Infusion Bio, 25 gr.",5.0
+567,322,94,"Paté de Centollo, 100gr. , MareTerra Deluque",5.0
+568,177,94,"Vatel-Flor de Sal Algarve, 175 gr.",5.0
+569,324,94,"Paté de Pulpo a la Gallega, 100 gr, MareTerra Deluque",5.0
+570,150,95,"Harina de Bellota pelada, TERRIUS, 200gr.",4.8
+571,368,96,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.8
+572,151,99,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",4.2
+573,149,99,"Harina de Boletus Edulis, TERRIUS, 70 gr.",4.2
+574,368,99,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.2
+575,343,102,Cesta Costa de Galicia,4.6
+576,158,100,"Wakame Undaria, ALGAMAR, 100 gr.",4.6
+577,45,100,"O Submarino-Ostras al Natural en agua de Mar (6-8 ostras), 115 gr.",4.6
+578,305,100,"Mejillón en escabeche con aceite de Oliva, Pescamar Gourmet, 111 gr.",4.6
+579,322,100,"Paté de Centollo, 100gr. , MareTerra Deluque",4.6
+580,312,100,"Paté de Atún y Sardina, Manná, 88g (4 x 22g)",4.6
+581,324,100,"Paté de Pulpo a la Gallega, 100 gr, MareTerra Deluque",4.6
+582,343,103,Cesta Costa de Galicia,4.8
+583,366,103,CAJA  TURRÓN,4.8
+584,140,47,"Berzas al Natural ,  A ROSALEIRA, 410 gr.",4.8
+585,346,47,"Tortita 5 Cereales con Algas ECO, 140 gr., Algamar",4.8
+586,217,107,"Vino 2015 Bioma Douro, Neipoort, 75cl.",4.8
+587,369,108,Cesta Manjar Portugues,4.8
+588,217,107,"Vino 2015 Bioma Douro, Neipoort, 75cl.",4.8
+589,343,112,Cesta Costa de Galicia,4.8
+590,343,112,Cesta Costa de Galicia,4.8
+591,343,114,Cesta Costa de Galicia,4.8
+592,222,113,"Pecado Capital Vino Verde Blanco 2017, 75cl.",4.8
+593,153,115,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.8
+594,134,115,"O Submarino-Ostras en Escabeche vermelho  (6-8 ostras), 115 gr.",4.8
+595,257,118,"Polvo de alga percebe (Codium), 30 gr.",4.8
+596,148,118,"Chutney de Tomate Seco, TERRIUS, 190 gr.",4.8
+597,277,119,"Turrón Jijona - Antiu Xixona, 200 gr.",4.8
+598,242,42,"Alga Nori para Sushi, 25 gr.",4.8
+599,234,107,"6 Barrels Tawny Reserve Vino de Oporto, 750ml",4.8
+600,234,107,"6 Barrels Tawny Reserve Vino de Oporto, 750ml",4.8
+601,221,9,"Vino Mateus The Original, 75cl.",4.5
+602,177,125,"Vatel-Flor de Sal Algarve, 175 gr.",4.5
+603,298,125,"Flor de Sal en recipiente de corcho, Algarve, Salmarim, 70g",4.5
+604,299,125,"Flor de Sal Limón, Algarve, Salmarim 100g",4.5
+605,300,125,"Flor De Sal Portatil, Algarve, Salmarim, 3 sales, 12 gr.",4.5
+606,276,128,"Turrón Alicante - Antiu Xixona, 200gr.",4.4
+607,176,47,"Petroni-Vermouth Rojo, 1000ml.",4.4
+608,176,47,"Petroni-Vermouth Rojo, 1000ml.",4.4
+609,313,130,"Amendoa Amarga Amarguinha licor, Xarão 700ml",4.4
+610,234,47,"6 Barrels Tawny Reserve Vino de Oporto, 750ml",4.4
+611,143,19,"Grelos al Natural, A ROSALEIRA, 380 gr.",4.4
+612,162,19,"Crackers de Espelta, Sesamo y Algas, 150 gr.",4.4
+613,140,19,"Berzas al Natural ,  A ROSALEIRA, 410 gr.",4.4
+614,141,19,"Setas ( Pleurotus Ostreatus) al Natural,  A ROSALEIRA, 400 gr.",4.4
+615,352,19,"Aceituna aliñada de la abuela 200 grs., José Lou",4.4
+616,144,19,"Zaragallada al Natural, A ROSALEIRA, 410 gr.",4.4
+617,301,20,"Vermouth Blanco, Petroni, 1000ml.",3.5
+618,150,131,"Harina de Bellota pelada, TERRIUS, 200gr.",3.5
+619,151,131,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",3.5
+620,150,135,"Harina de Bellota pelada, TERRIUS, 200gr.",3.5
+621,349,137,"Pepinillos sabor anchoa 250 grs., José Lou",3.5
+622,315,139,"Muralhas de Monção, Vino Verde 750ml",3.5
+623,368,96,"Harina de Bellota pelada, TERRIUS, 1Kg.",3.5
+624,368,96,"Harina de Bellota pelada, TERRIUS, 1Kg.",3.5
+625,352,140,"Aceituna aliñada de la abuela 200 grs., José Lou",3.5
+626,139,141,"Tomate al Natural Extra, A ROSALEIRA 420 gr.",3.5
+627,262,145,"Perpetua, Flor de Santa Lucia (GOMPHRENA GLOBOSA) Bio, 25 gr.",3.5
+628,301,20,"Vermouth Blanco, Petroni, 1000ml.",3.5
+629,352,140,"Aceituna aliñada de la abuela 200 grs., José Lou",3.5
+630,314,140,"ALMAOLIVA, Aceite Bio, Almazaras de la Subbética,  lata 500 ml.",3.5
+631,368,96,"Harina de Bellota pelada, TERRIUS, 1Kg.",3.5
+632,283,147,"Chocolate Negro 85% Cacao, 100gr., Antiu Xixona",3.9
+633,29,148,"Licor Café de Galicia, Porta do Miño, 70cl.",3.9
+634,290,148,Mermelada de fresa QJ 280g,3.9
+635,368,131,"Harina de Bellota pelada, TERRIUS, 1Kg.",3.9
+636,45,151,"O Submarino-Ostras al Natural en agua de Mar (6-8 ostras), 115 gr.",3.9
+637,352,140,"Aceituna aliñada de la abuela 200 grs., José Lou",3.9
+638,352,33,"Aceituna aliñada de la abuela 200 grs., José Lou",3.9
+639,306,33,"Ventresca de Bonito del Norte en aceite de oliva, Pescamar Gourmet,  110 gr.",3.9
+640,305,33,"Mejillón en escabeche con aceite de Oliva, Pescamar Gourmet, 111 gr.",3.9
+641,378,33,"Harina de manzana: Mazana Bravo Esmolfe, Terrius, 500 gr.",3.9
+642,284,33,"Chocolate Negro sin azucar,125gr. , Antiu Xixona",3.9
+643,176,33,"Petroni-Vermouth Rojo, 1000ml.",3.9
+644,149,33,"Harina de Boletus Edulis, TERRIUS, 70 gr.",3.9
+645,152,33,"Castaña de Marvão Deshidratada Ahumada, TERRIUS, 200 gr.",3.9
+646,292,33,Mermelada de Higos con Nueces QJ 280g,3.9
+647,148,33,"Chutney de Tomate Seco, TERRIUS, 190 gr.",3.9
+648,255,9,"Paté kombu con anchoas, 120 gr.",3.9
+649,249,19,"Pasta integral con algas Espagueti, 250 gr.",4.8
+650,176,19,"Petroni-Vermouth Rojo, 1000ml.",4.8
+651,144,19,"Zaragallada al Natural, A ROSALEIRA, 410 gr.",4.8
+652,141,19,"Setas ( Pleurotus Ostreatus) al Natural,  A ROSALEIRA, 400 gr.",4.8
+653,39,19,"Aceite Virgen Extra Biológico - Aceite de Moura DOP ( CAMB), 750ml.",4.8
+654,228,19,"QP Syrah Vino Regional Alentejano, 75cl.",4.8
+655,145,19,"Pimientos del Piquillo Asados, TERRIUS, 225 gr.",4.8
+656,381,19,Regalo día de la Madre Trabajadora,4.8
+657,381,155,Regalo día de la Madre Trabajadora,4.8
+658,381,156,Regalo día de la Madre Trabajadora,4.8
+659,304,151,"Sardinillas con Aceite de Oliva, Pescamar Gourmet, 115 gr.",4.8
+660,383,158,Regalo día de la Madre Luchadora,4.8
+661,315,159,"Muralhas de Monção, Vino Verde 750ml",4.8
+662,29,148,"Licor Café de Galicia, Porta do Miño, 70cl.",4.8
+663,383,161,Regalo día de la Madre Luchadora,4.8
+664,41,163,"Gallo-Vinagre de vino espumante, 250 ml.",4.8
+665,294,163,Aceite Extra Virgen con Oregano QJ 50cl,4.8
+666,141,163,"Setas ( Pleurotus Ostreatus) al Natural,  A ROSALEIRA, 400 gr.",4.8
+667,360,163,"Almendrados de Allariz, Fina Rei 150 gr.",4.8
+668,293,163,Vinagre de Miel QJ 50cl,4.8
+669,313,164,"Amendoa Amarga Amarguinha licor, Xarão 700ml",4.8
+670,42,167,"Gallo-Vinagre balsámico rosé, 250 ml.",4.8
+671,215,169,"Licor Ginja Caldas de Óbidos, 50 cl.",4.8
+672,150,171,"Harina de Bellota pelada, TERRIUS, 200gr.",4.8
+673,153,172,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.8
+674,152,172,"Castaña de Marvão Deshidratada Ahumada, TERRIUS, 200 gr.",4.8
+675,141,172,"Setas ( Pleurotus Ostreatus) al Natural,  A ROSALEIRA, 400 gr.",4.8
+676,299,173,"Flor de Sal Limón, Algarve, Salmarim 100g",4.8
+677,301,20,"Vermouth Blanco, Petroni, 1000ml.",4.8
+678,352,140,"Aceituna aliñada de la abuela 200 grs., José Lou",4.8
+679,322,175,"Paté de Centollo, 100gr. , MareTerra Deluque",4.8
+680,374,175,"Paté de Atún en Aceite de Oliva, Briosa Conservas Gourmet, 75g",4.8
+681,373,175,"Paté de Bacalao, Briosa Conservas Gourmet, 75g",4.8
+682,368,176,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.8
+683,313,177,"Amendoa Amarga Amarguinha licor, Xarão 700ml",4.8
+684,272,178,"Vino Mencia by Paco & Lola, 75 cl.",4.8
+685,271,178,"Vino N.º 12 Paco & Lola, 75 cl.",4.0
+686,44,181,"Gallo-Vinagre balsámico de modena, 250 ml.",4.0
+687,349,183,"Pepinillos sabor anchoa 250 grs., José Lou",4.0
+688,28,184,"Ostra en vinagreta de albariño 6 - 8 piezas O Submarino, 115 gr.",4.0
+689,233,184,"Alvariño Terras Gauda, 75 cl.",4.0
+690,322,184,"Paté de Centollo, 100gr. , MareTerra Deluque",4.0
+691,355,184,"Galletas Mariñeiras con Algas wakame, 100grs , Daveiga",4.0
+692,305,184,"Mejillón en escabeche con aceite de Oliva, Pescamar Gourmet, 111 gr.",4.0
+693,308,184,"Mejillón al Natural, Pescamar, 111gr. Pack 6 latas",4.0
+694,359,186,Pack Vermut Petroni,4.0
+695,242,187,"Alga Nori para Sushi, 25 gr.",4.0
+696,140,187,"Berzas al Natural ,  A ROSALEIRA, 410 gr.",4.0
+697,145,187,"Pimientos del Piquillo Asados, TERRIUS, 225 gr.",4.0
+698,368,185,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.0
+699,373,175,"Paté de Bacalao, Briosa Conservas Gourmet, 75g",4.0
+700,374,175,"Paté de Atún en Aceite de Oliva, Briosa Conservas Gourmet, 75g",4.0
+701,29,148,"Licor Café de Galicia, Porta do Miño, 70cl.",4.0
+702,322,193,"Paté de Centollo, 100gr. , MareTerra Deluque",4.0
+703,375,193,"Paté de Caballa Picante en Aceite de Oliva, Briosa Conservas Gourmet, 75g",4.0
+704,349,193,"Pepinillos sabor anchoa 250 grs., José Lou",4.0
+705,268,193,"Estragón Francés, 15 gr.",4.0
+706,269,193,"Tomillo limón Bio, 25 gr.",4.0
+707,238,194,"Alga Kombu, 100 gr.",4.0
+708,368,131,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.0
+709,368,196,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.0
+710,352,140,"Aceituna aliñada de la abuela 200 grs., José Lou",4.0
+711,313,199,"Amendoa Amarga Amarguinha licor, Xarão 700ml",4.0
+712,342,200,Cesta Sabores del Atlántico,4.0
+713,301,20,"Vermouth Blanco, Petroni, 1000ml.",4.0
+714,374,175,"Paté de Atún en Aceite de Oliva, Briosa Conservas Gourmet, 75g",4.0
+715,373,175,"Paté de Bacalao, Briosa Conservas Gourmet, 75g",4.0
+716,315,202,"Muralhas de Monção, Vino Verde 750ml",4.0
+717,368,204,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.0
+718,368,208,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.0
+719,359,209,Pack Vermut Petroni,4.0
+720,352,140,"Aceituna aliñada de la abuela 200 grs., José Lou",4.0
+721,143,213,"Grelos al Natural, A ROSALEIRA, 380 gr.",4.0
+722,306,213,"Ventresca de Bonito del Norte en aceite de oliva, Pescamar Gourmet,  110 gr.",4.0
+723,304,213,"Sardinillas con Aceite de Oliva, Pescamar Gourmet, 115 gr.",4.0
+724,145,213,"Pimientos del Piquillo Asados, TERRIUS, 225 gr.",4.0
+725,315,214,"Muralhas de Monção, Vino Verde 750ml",4.0
+726,313,215,"Amendoa Amarga Amarguinha licor, Xarão 700ml",4.0
+727,176,215,"Petroni-Vermouth Rojo, 1000ml.",4.0
+728,144,215,"Zaragallada al Natural, A ROSALEIRA, 410 gr.",4.0
+729,141,215,"Setas ( Pleurotus Ostreatus) al Natural,  A ROSALEIRA, 400 gr.",4.0
+730,145,215,"Pimientos del Piquillo Asados, TERRIUS, 225 gr.",4.0
+731,386,215,"Gallo- Selección Planicies del Sur, Aceite Virgen Extra 750ml",4.0
+732,314,215,"ALMAOLIVA, Aceite Bio, Almazaras de la Subbética,  lata 500 ml.",4.0
+733,177,215,"Vatel-Flor de Sal Algarve, 175 gr.",4.0
+734,373,215,"Paté de Bacalao, Briosa Conservas Gourmet, 75g",4.0
+735,374,215,"Paté de Atún en Aceite de Oliva, Briosa Conservas Gourmet, 75g",4.0
+736,216,216,"Vino Moscatel Alambre de Setúbal, 750 ml.",4.8
+737,288,216,"Marron Glacé, 150g Posada",4.8
+738,300,217,"Flor De Sal Portatil, Algarve, Salmarim, 3 sales, 12 gr.",4.8
+739,299,217,"Flor de Sal Limón, Algarve, Salmarim 100g",4.8
+740,298,217,"Flor de Sal en recipiente de corcho, Algarve, Salmarim, 70g",4.8
+741,39,218,"Aceite Virgen Extra Biológico - Aceite de Moura DOP ( CAMB), 750ml.",4.8
+742,34,222,"Licor de Ginja Caldas de Óbidos, 100 ml.",4.8
+743,352,140,"Aceituna aliñada de la abuela 200 grs., José Lou",4.8
+744,315,226,"Muralhas de Monção, Vino Verde 750ml",4.8
+745,368,225,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.8
+746,150,228,"Harina de Bellota pelada, TERRIUS, 200gr.",4.8
+747,153,228,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.8
+748,313,229,"Amendoa Amarga Amarguinha licor, Xarão 700ml",3.8
+749,150,231,"Harina de Bellota pelada, TERRIUS, 200gr.",3.8
+750,344,231,Chocolate Negro 72% con Ulva y Menta ECO. 100 gr. Algamar,3.8
+751,152,231,"Castaña de Marvão Deshidratada Ahumada, TERRIUS, 200 gr.",3.8
+752,287,231,"Castañas al natural, 250g Posada",3.8
+753,151,233,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",3.8
+754,301,20,"Vermouth Blanco, Petroni, 1000ml.",3.8
+755,262,234,"Perpetua, Flor de Santa Lucia (GOMPHRENA GLOBOSA) Bio, 25 gr.",3.8
+756,150,235,"Harina de Bellota pelada, TERRIUS, 200gr.",3.8
+757,153,235,"Bellota Tostada Pelada, TERRIUS, 200 gr.",3.8
+758,368,240,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.2
+759,343,241,Cesta Costa de Galicia,4.2
+760,152,242,"Castaña de Marvão Deshidratada Ahumada, TERRIUS, 200 gr.",4.2
+761,156,242,"Paté Vegetal con Algas, ALGAMAR, 180 gr.",4.2
+762,368,242,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.2
+763,352,242,"Aceituna aliñada de la abuela 200 grs., José Lou",4.2
+764,350,242,"Aceitunas verdes aliñadas al estilo provenzal, 200 grs., José Lou",4.2
+765,368,131,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.2
+766,39,246,"Aceite Virgen Extra Biológico - Aceite de Moura DOP ( CAMB), 750ml.",4.2
+767,153,247,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.2
+768,45,247,"O Submarino-Ostras al Natural en agua de Mar (6-8 ostras), 115 gr.",4.2
+769,28,247,"Ostra en vinagreta de albariño 6 - 8 piezas O Submarino, 115 gr.",4.2
+770,288,248,"Marron Glacé, 150g Posada",4.2
+771,315,250,"Muralhas de Monção, Vino Verde 750ml",4.2
+772,38,252,Gallo- MoonLight Aceite Virgen Extra 500ml,4.2
+773,150,255,"Harina de Bellota pelada, TERRIUS, 200gr.",4.2
+774,151,255,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",4.2
+775,299,256,"Flor de Sal Limón, Algarve, Salmarim 100g",4.2
+776,28,258,"Ostra en vinagreta de albariño 6 - 8 piezas O Submarino, 115 gr.",4.2
+777,150,259,"Harina de Bellota pelada, TERRIUS, 200gr.",4.2
+778,368,261,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.2
+779,352,140,"Aceituna aliñada de la abuela 200 grs., José Lou",4.2
+780,315,266,"Muralhas de Monção, Vino Verde 750ml",4.2
+781,313,267,"Amendoa Amarga Amarguinha licor, Xarão 700ml",4.2
+782,388,269,Cesta Selección Ibérica,4.2
+783,388,269,Cesta Selección Ibérica,4.2
+784,359,272,Pack Vermut Petroni,4.2
+785,345,274,"Agar-Agar en copos (Gelidium), 50 gr.",4.8
+786,304,274,"Sardinillas con Aceite de Oliva, Pescamar Gourmet, 115 gr.",4.8
+787,307,274,"Atún claro con aceite de oliva, Pescamar, 110 gr. (Pack 6 latas)",4.8
+788,177,274,"Vatel-Flor de Sal Algarve, 175 gr.",4.8
+789,353,274,"Paté de aceituna Manzanilla, 110 grs, José Lou",4.8
+790,344,274,Chocolate Negro 72% con Ulva y Menta ECO. 100 gr. Algamar,4.8
+791,348,274,"Banderilla Pepino Picante Entero em Vinagre 150 grs., José Lou",4.8
+792,349,274,"Pepinillos sabor anchoa 250 grs., José Lou",4.8
+793,350,274,"Aceitunas verdes aliñadas al estilo provenzal, 200 grs., José Lou",4.8
+794,356,274,"Galletas Mariñeiras con Aceite de Oliva, 100 grs, Daveiga",4.8
+795,225,20,"Vino Douro Valley Verdelho Sauvignon Blanc, Portal, 75cl.",4.9
+796,228,20,"QP Syrah Vino Regional Alentejano, 75cl.",4.9
+797,230,20,"Vino Quinta da Pinheira Borba D.O. controlada, 75cl.",4.9
+798,233,20,"Alvariño Terras Gauda, 75 cl.",4.9
+799,271,20,"Vino N.º 12 Paco & Lola, 75 cl.",4.9
+800,220,20,"Vino Luis Cañas Crianza 2009 Rioja, 75 cl.",4.9
+801,309,20,"Vino Terras Gauda Etiqueta Negra 2016, 75 cl.",4.9
+802,301,20,"Vermouth Blanco, Petroni, 1000ml.",4.9
+803,227,20,"Vino Oporto Natura Graham's, 75cl.",4.9
+804,272,20,"Vino Mencia by Paco & Lola, 75 cl.",4.9
+805,232,20,"Via Romana Vegan, Mencia, Ribera Sacra, 75 cl.",4.9
+806,359,276,Pack Vermut Petroni,4.1
+807,388,276,Cesta Selección Ibérica,4.1
+808,362,277,Cesta Gourmet Saudades de Portugal,4.1
+809,150,282,"Harina de Bellota pelada, TERRIUS, 200gr.",4.9
+810,151,282,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",4.9
+811,309,96,"Vino Terras Gauda Etiqueta Negra 2016, 75 cl.",5.0
+812,227,96,"Vino Oporto Natura Graham's, 75cl.",5.0
+813,176,96,"Petroni-Vermouth Rojo, 1000ml.",5.0
+814,350,96,"Aceitunas verdes aliñadas al estilo provenzal, 200 grs., José Lou",5.0
+815,303,96,"Zamburiñas con Salsa Vieira, Pescamar Gourmet, 111 gr.",5.0
+816,356,96,"Galletas Mariñeiras con Aceite de Oliva, 100 grs, Daveiga",5.0
+817,324,96,"Paté de Pulpo a la Gallega, 100 gr, MareTerra Deluque",5.0
+818,271,96,"Vino N.º 12 Paco & Lola, 75 cl.",5.0
+819,135,96,"O Submarino-Paté de Ostra con Castaña, 85 gr.",5.0
+820,138,96,"O Submarino-Paté de Berberecho con castaña, 85 gr.",5.0
+821,306,96,"Ventresca de Bonito del Norte en aceite de oliva, Pescamar Gourmet,  110 gr.",5.0
+822,304,96,"Sardinillas con Aceite de Oliva, Pescamar Gourmet, 115 gr.",5.0
+823,305,96,"Mejillón en escabeche con aceite de Oliva, Pescamar Gourmet, 111 gr.",5.0
+824,32,284,"Beirão Licor, 70 cl.",4.4
+825,35,284,"Licor de Ginja Caldas de Óbidos, 200 ml.",4.4
+826,227,284,"Vino Oporto Natura Graham's, 75cl.",4.4
+827,388,287,Cesta Selección Ibérica,4.4
+828,335,287,Cesta Gourmet Alêm-Tejo,4.4
+829,362,288,Cesta Gourmet Saudades de Portugal,3.7
+830,390,291,Cesta Regalito de Portugal,4.5
+831,368,292,"Harina de Bellota pelada, TERRIUS, 1Kg.",3.8
+832,264,293,"Menta-Chocolate (MENTA PIPERITA CHOCOLATE) infusion Bio, 25 gr.",4.5
+833,242,293,"Alga Nori para Sushi, 25 gr.",4.5
+834,368,294,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.4
+835,151,294,"Harina de Castaña Ahumada, TERRIUS, 200 gr.",4.4
+836,390,296,Cesta Regalito de Portugal,3.8
+837,388,96,Cesta Selección Ibérica,3.7
+838,343,299,Cesta Costa de Galicia,4.4
+839,301,20,"Vermouth Blanco, Petroni, 1000ml.",4.2
+840,149,302,"Harina de Boletus Edulis, TERRIUS, 70 gr.",4.2
+841,315,303,"Muralhas de Monção, Vino Verde 750ml",4.2
+842,150,304,"Harina de Bellota pelada, TERRIUS, 200gr.",4.2
+843,298,305,"Flor de Sal en recipiente de corcho, Algarve, Salmarim, 70g",4.2
+844,299,305,"Flor de Sal Limón, Algarve, Salmarim 100g",4.2
+845,300,305,"Flor De Sal Portatil, Algarve, Salmarim, 3 sales, 12 gr.",4.2
+846,224,306,"Vino de Oporto Extra Dry White, Portal, 750ml.",4.2
+847,154,215,"Pisto con Algas ( tomate, cebolla, calabacin, pimiento y alga wakame), ALGAMAR, 420 gr.",4.2
+848,143,215,"Grelos al Natural, A ROSALEIRA, 380 gr.",4.2
+849,257,308,"Polvo de alga percebe (Codium), 30 gr.",4.2
+850,150,311,"Harina de Bellota pelada, TERRIUS, 200gr.",4.2
+851,376,313,"Paté de Sardina en Aceite de Oliva, Briosa Conservas Gourmet, 75g",4.2
+852,176,20,"Petroni-Vermouth Rojo, 1000ml.",4.2
+853,368,96,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.2
+854,368,96,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.2
+855,390,314,Cesta Regalito de Portugal,4.3
+856,359,314,Pack Vermut Petroni,4.3
+857,28,317,"Ostra en vinagreta de albariño 6 - 8 piezas O Submarino, 115 gr.",4.3
+858,134,317,"O Submarino-Ostras en Escabeche vermelho  (6-8 ostras), 115 gr.",4.3
+859,150,318,"Harina de Bellota pelada, TERRIUS, 200gr.",4.3
+860,231,320,"Quinta do Ataíde 2014 Vino tinto Bio, 75cl.",4.3
+861,315,320,"Muralhas de Monção, Vino Verde 750ml",4.3
+862,153,322,"Bellota Tostada Pelada, TERRIUS, 200 gr.",4.3
+863,368,96,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.3
+864,368,325,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.3
+865,31,30,"Licor De Hierbas De Galicia, Porta do Miño, 70cl.",4.8
+866,29,30,"Licor Café de Galicia, Porta do Miño, 70cl.",4.8
+867,368,131,"Harina de Bellota pelada, TERRIUS, 1Kg.",4.2
+868,378,328,"Harina de manzana: Mazana Bravo Esmolfe, Terrius, 500 gr.",4.1
+869,387,328,Gallo- Late Harvest Aceite Virgen Extra 500ml,4.1
+870,270,328,"Albahaca Limón Bio, 20 gr.",4.1
+871,313,329,"Amendoa Amarga Amarguinha licor, Xarão 700ml",3.9
+872,143,215,"Grelos al Natural, A ROSALEIRA, 380 gr.",4.0
+873,139,215,"Tomate al Natural Extra, A ROSALEIRA 420 gr.",4.0
+874,141,215,"Setas ( Pleurotus Ostreatus) al Natural,  A ROSALEIRA, 400 gr.",4.0
+875,144,215,"Zaragallada al Natural, A ROSALEIRA, 410 gr.",4.0
+876,314,215,"ALMAOLIVA, Aceite Bio, Almazaras de la Subbética,  lata 500 ml.",4.0
+877,143,20,"Grelos al Natural, A ROSALEIRA, 380 gr.",4.5
+878,314,20,"ALMAOLIVA, Aceite Bio, Almazaras de la Subbética,  lata 500 ml.",4.5
+879,374,20,"Paté de Atún en Aceite de Oliva, Briosa Conservas Gourmet, 75g",4.5
